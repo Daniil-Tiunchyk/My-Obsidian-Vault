@@ -11,6 +11,7 @@
 - [Гайд по разворачиванию мультимодальной модели Janus-Pro-7B для генерации картинок](guides/janus-pro-7b-deploy-guide.md)
 - [Гайд по настройке одноплатного ПК Orange PI 3B](guides/orange-pi-3b-setup-guide.md)
 - [Гайд по установке YouTrack на сервер с Docker](guides/youtrack-docker-deploy-guide.md)
+- [Гайд по установке Mailcow с Nginx в качестве Reverse Proxy](guides/mailcow-nginx-setup-guide.md)
 
 ## 📚 Ресурсы
 
